@@ -13,8 +13,8 @@ namespace ConsoleApp4
         public void Caca1()
         {
             //This is a defecation test
-            var a = 1;
-            a = a + 2;
+            var a = 0;
+            a = a + 0;
         }
 
         public void Caca1(string a)
